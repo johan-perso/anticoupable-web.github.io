@@ -12,4 +12,4 @@ Anti Coupable est un bot Discord crée par [Johan](https://johan-perso.glitch.me
 
 - [Remix Pantoufle](https://twitter.com/rmxptfl)
 - [Moi même](https://twitter.com/Johan_Perso)
-- [sysLambda](https://github.com/sysLambda)
+- [lambdagg](https://lambdagg.xyz)
